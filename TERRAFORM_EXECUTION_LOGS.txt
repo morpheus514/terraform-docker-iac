@@ -1,17 +1,23 @@
 === TERRAFORM INIT ===
-[Output from terraform init]
+[Copy output]
 
 === TERRAFORM PLAN ===
-[Output from terraform plan]
+[Copy output]
 
 === TERRAFORM APPLY ===
-[Output from terraform apply - type yes]
+[Copy output]
 
-=== DOCKER PS ===
-[Output from docker ps]
+=== DOCKER PS (Verification) ===
+[Copy output from docker ps]
+
+=== DOCKER LOGS (Web App) ===
+[Copy output from docker logs terraform-web-app]
+
+=== DOCKER LOGS (Nginx) ===
+[Copy output from docker logs terraform-nginx]
 
 === TERRAFORM STATE ===
-[Output from terraform state list]
+[Copy output from terraform state list]
 
 === TERRAFORM DESTROY ===
-[Output from terraform destroy - type yes]
+[Copy output]
