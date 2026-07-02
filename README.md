@@ -140,23 +140,6 @@ This pattern scales to:
 - Microservices deployment
 
 ---
-
-## 📚 Interview-Ready Answers
-
-**Q: What is IaC?**  
-A: Infrastructure defined as code in version-controlled files. Benefits: repeatable, auditable, collaborative, disaster recovery.
-
-**Q: Terraform vs Ansible?**  
-A: Terraform = **declarative** (describe final state), Ansible = **imperative** (describe steps). Terraform better for infrastructure provisioning.
-
-**Q: State file — why important?**  
-A: Terraform tracks what it created. Without it, can't determine what to update/destroy. Sensitive — don't push to GitHub!
-
-**Q: How do dependencies work?**  
-A: Terraform automatically orders resource creation based on references. Explicit `depends_on` for non-obvious dependencies.
-
----
-
 ## ✨ Created By
 Adi | DevOps Internship | Elevate Labs
 
