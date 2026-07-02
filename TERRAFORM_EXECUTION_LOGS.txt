@@ -1,0 +1,17 @@
+=== TERRAFORM INIT ===
+[Output from terraform init]
+
+=== TERRAFORM PLAN ===
+[Output from terraform plan]
+
+=== TERRAFORM APPLY ===
+[Output from terraform apply - type yes]
+
+=== DOCKER PS ===
+[Output from docker ps]
+
+=== TERRAFORM STATE ===
+[Output from terraform state list]
+
+=== TERRAFORM DESTROY ===
+[Output from terraform destroy - type yes]
